@@ -76,8 +76,8 @@ public class MeituAppServerHandler extends AbstractHandler {
     public String getBosInfo(String bosRequestType) {
         // configuration for getting stsToken
         // bce bos credentials ak sk
-        String bosAk = "187fc0b1b0ee4080a2fad3e0c26368a6";
-        String bosSk = "99d6be7334384447bfb7e5a35088fe92";
+        String bosAk = "ak_of_third_party_developer";
+        String bosSk = "sk_of_third_party_developer";
         // bce sts service endpoint
         String stsEndpoint = "http://sts.bj.baidubce.com";
 
