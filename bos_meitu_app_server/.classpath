@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/jetty/9.3.8.v20160314/jetty-all-uber.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/lib/bce-java-sdk-0.10.1.jar" sourcepath="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/lib/bce-java-sdk-0.10.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/lib/bce-java-sdk-0.10.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/httpasyncclient-4.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/httpclient-4.3.5.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/httpcore-nio-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/jackson-annotations-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/jackson-core-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/jackson-databind-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/jcl-over-slf4j-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/gavin/Documents/workspace/java/lib/bce-java-sdk-0.10.1/third-party/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
