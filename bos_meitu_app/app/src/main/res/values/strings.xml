@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BOS Meitu App</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="regions">
+        <item>北京</item>
+        <item>广州</item>
+        <item>其他</item>
+    </string-array>
+</resources>
